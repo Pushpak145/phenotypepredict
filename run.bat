@@ -1,0 +1,2 @@
+python PhenotypePredict.py
+pause
